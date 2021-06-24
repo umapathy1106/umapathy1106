@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Umapathy Margabandu
+Build-Jdk: 14.0.1
+Implementation-Title: HospitalManagementSystemJar
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example.project
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/HospitalManage
+ mentSystem/
+Created-By: Maven Integration for Eclipse
+
